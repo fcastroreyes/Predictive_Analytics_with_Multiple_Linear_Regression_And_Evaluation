@@ -4,6 +4,13 @@ An in-depth exploration of Multiple Linear Regression for predictive analytics, 
 # Overview
 This repository showcases a comprehensive approach to Multiple Linear Regression analysis, leveraging Python to predict outcomes based on multiple input variables. Employing the sklearn library, it covers data preprocessing, model fitting, and evaluation, demonstrating proficiency in predictive modeling and statistical analysis.
 
+# Key Features
+- Data cleaning and preprocessing with OneHotEncoder for categorical variables.
+- Detailed implementation of Multiple Linear Regression using sklearn.
+- Evaluation of model performance using Mean Squared Error (MSE).
+= Contributing
+- Contributions are welcome. Fork the repo, propose your changes, and submit a pull request.
+
 # Setup
 ## Prerequisites
 - Python 3.x
@@ -16,13 +23,6 @@ pip install pandas numpy plotnine sklearn
 
 # Data
 The project utilizes the palmerpenguins dataset, illustrating regression techniques on a real dataset.
-
-# Key Features
-- Data cleaning and preprocessing with OneHotEncoder for categorical variables.
-- Detailed implementation of Multiple Linear Regression using sklearn.
-- Evaluation of model performance using Mean Squared Error (MSE).
-= Contributing
-- Contributions are welcome. Fork the repo, propose your changes, and submit a pull request.
 
 # License
 This project is open-sourced under the MIT License.
